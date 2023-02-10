@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "atelier_react",
-    "slug": "atelier_react",
+    "slug": "atelierreact",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7489bf96-0dcf-4bac-8115-6f048a9dca8e"
+      }
+    },
+    "owner": "samoht70"
   }
 }
